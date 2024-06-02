@@ -1,0 +1,14 @@
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\bin\Debug\net8.0\dcit318-assignment1-10970601.exe
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\bin\Debug\net8.0\dcit318-assignment1-10970601.deps.json
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\bin\Debug\net8.0\dcit318-assignment1-10970601.runtimeconfig.json
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\bin\Debug\net8.0\dcit318-assignment1-10970601.dll
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\bin\Debug\net8.0\dcit318-assignment1-10970601.pdb
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.AssemblyInfoInputs.cache
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.AssemblyInfo.cs
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.csproj.CoreCompileInputs.cache
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.dll
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\refint\dcit318-assignment1-10970601.dll
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.pdb
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\dcit318-assignment1-10970601.genruntimeconfig.cache
+C:\Users\23355\OneDrive\Desktop\dcit318-assignment1-10970601\obj\Debug\net8.0\ref\dcit318-assignment1-10970601.dll
