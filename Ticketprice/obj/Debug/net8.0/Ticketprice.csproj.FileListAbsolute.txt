@@ -1,0 +1,15 @@
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\bin\Debug\net8.0\Ticketprice.exe
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\bin\Debug\net8.0\Ticketprice.deps.json
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\bin\Debug\net8.0\Ticketprice.runtimeconfig.json
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\bin\Debug\net8.0\Ticketprice.dll
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\bin\Debug\net8.0\Ticketprice.pdb
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.AssemblyInfoInputs.cache
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.AssemblyInfo.cs
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.csproj.CoreCompileInputs.cache
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.sourcelink.json
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.dll
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\refint\Ticketprice.dll
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.pdb
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\Ticketprice.genruntimeconfig.cache
+C:\Users\23355\onedrive\Desktop\dcit318-assignment1-10970601\Ticketprice\obj\Debug\net8.0\ref\Ticketprice.dll
